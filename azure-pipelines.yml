@@ -23,7 +23,7 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- script: pip install -r SuperDuperTester/requirements.txt
+- script: pip install -r requirements.txt
   displayName: 'Install requirements'
 
 - script: tester.py
