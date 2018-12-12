@@ -19,3 +19,4 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: tester/py
+  displayName: 'Trial'
